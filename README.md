@@ -5,9 +5,17 @@ You must write a word in a 5 seconds window for one minute, if not the written t
 GUI Layout
 
 A very symple layout shown in the following image:
-<img width="468" alt="Screenshot 2024-12-22 213321" src="https://github.com/user-attachments/assets/0bc1e88f-2532-4e6b-a6d4-f033bb133186" />
 
-<img width="468" alt="Screenshot 2024-12-22 212712" src="https://github.com/user-attachments/assets/e9885773-edda-4234-a2b9-79791a68706b" />
+
+<img width="660" alt="Screenshot 2024-12-27 115611" src="https://github.com/user-attachments/assets/182c0d1f-5d9d-4c68-a534-c4d7a6c1c01f" />
+
+<img width="662" alt="Screenshot 2024-12-22 213321" src="https://github.com/user-attachments/assets/d777f71c-b238-47bb-bf0b-4671fe897433" />
+
+<img width="662" alt="Screenshot 2024-12-22 230846" src="https://github.com/user-attachments/assets/ee35562a-d806-4e99-be06-66dade04c32f" />
+
+<img width="659" alt="Screenshot 2024-12-22 230905" src="https://github.com/user-attachments/assets/cd5e38ca-91da-46cb-8efb-ffa5937dad89" />
+
+<img width="660" alt="Screenshot 2024-12-27 115825" src="https://github.com/user-attachments/assets/1d9691f2-13dc-4cd5-b3a6-1d11caedf6a4" />
 
 ## Installation
 1. Clone the repository: 
