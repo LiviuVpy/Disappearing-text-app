@@ -1,6 +1,8 @@
 Disappearing text desktop app based on tkinter
 
-You must write a word in a 5 seconds window for one minute, if not the written text will disappear.
+First you must choose the difficulty level.
+
+Then write a word in a time window for one minute, if not the written text will disappear.
 
 GUI Layout
 
